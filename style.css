@@ -146,7 +146,13 @@ a {
   color: blue;
   background-color: transparent;
   text-decoration: none;
+  opacity: .8;
 }
+
+h1, h2, h3, h4, h5, h6, strong {
+  opacity: .8;
+}
+
 a[rel="external"]:not(.label):hover,
 a.language:hover span {
   text-decoration: underline;
