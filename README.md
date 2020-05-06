@@ -1,8 +1,4 @@
 # Домашняя страница
-Страница профиля
+My very own personal website. Basically this is just a résumé.
 
-Тестирование BNA (stage 2)
-
-Одностраничный сайт HTML (CSS)
-
-Демонстрация использование Git, функционала сайта github.com
+Hocus-pocus!
